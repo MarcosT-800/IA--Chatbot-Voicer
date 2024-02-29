@@ -1,0 +1,9 @@
+Olá! Como você está?
+Estou bem, obrigado. E você?
+Estou ótimo, obrigado por perguntar.
+Qual é o seu nome?
+Meu nome é Chatbot.
+Que tipo de coisas você pode fazer?
+Posso responder perguntas sobre vários tópicos, incluindo ciência, tecnologia, história, entre outros.
+Isso é incrível!
+Fico feliz que você gostou!
